@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70c5811d-00cf-45e4-b9d5-ff05f31ad38b" name="Changes" comment="renomeia exercício Data para HoraDoSistema">
-      <change afterPath="$PROJECT_DIR$/src/alura/TestaCondicionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alura/TesteVariavel.java" afterDir="false" />
+    <list default="true" id="70c5811d-00cf-45e4-b9d5-ff05f31ad38b" name="Changes" comment="adiciona package alura com TestaCondicionais e TestaVariavel">
+      <change afterPath="$PROJECT_DIR$/src/alura/TestaCondicionais2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/alura/TestaEscopo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/alura/TesteIR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.alura.TestaCondicionais">
+  <component name="RunManager" selected="Application.TesteIR">
     <configuration name="HoraDoSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="primeiroprograma.HoraDoSistema" />
       <module name="PrimeiroProjeto" />
@@ -52,8 +53,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestaCondicionais2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alura.TestaCondicionais2" />
+      <module name="PrimeiroProjeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestaVariavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="alura.TestaVariavel" />
+      <module name="PrimeiroProjeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteIR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alura.TesteIR" />
       <module name="PrimeiroProjeto" />
       <extension name="coverage">
         <pattern>
@@ -78,25 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeiroprograma.PrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primeiroprograma.PrimeiroPrograma" />
-      <module name="PrimeiroProjeto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="primeiroprograma.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteIR" />
+        <item itemvalue="Application.TestaCondicionais2" />
         <item itemvalue="Application.alura.TestaCondicionais" />
         <item itemvalue="Application.TestaVariavel" />
         <item itemvalue="Application.HoraDoSistema" />
-        <item itemvalue="Application.primeiroprograma.PrimeiroPrograma" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654554516441</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="adiciona package alura com TestaCondicionais e TestaVariavel">
+      <created>1654635241148</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654635241148</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adiciona package alura com TestaCondicionais e TestaVariavel">
+      <created>1654635322807</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654635322807</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +198,8 @@
     <MESSAGE value="primeira commit" />
     <MESSAGE value="adiciona exercício Data" />
     <MESSAGE value="renomeia exercício Data para HoraDoSistema" />
-    <option name="LAST_COMMIT_MESSAGE" value="renomeia exercício Data para HoraDoSistema" />
+    <MESSAGE value="adiciona package alura com TestaCondicionais e TestaVariavel" />
+    <option name="LAST_COMMIT_MESSAGE" value="adiciona package alura com TestaCondicionais e TestaVariavel" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
