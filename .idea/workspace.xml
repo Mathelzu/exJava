@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70c5811d-00cf-45e4-b9d5-ff05f31ad38b" name="Changes" comment="adiciona Testa">
-      <change afterPath="$PROJECT_DIR$/src/alura/TestaLacos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alura/TestaLacos2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alura/TestaSomatoria.java" afterDir="false" />
+    <list default="true" id="70c5811d-00cf-45e4-b9d5-ff05f31ad38b" name="Changes" comment="adiciona TestaSomatoria, TestaLacos e TestaLacos2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alura/TestaLacos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/alura/TestaLacos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654714343819</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="adiciona TestaSomatoria, TestaLacos e TestaLacos2">
+      <created>1654802062447</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654802062447</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +219,8 @@
     <MESSAGE value="renomeia exercício Data para HoraDoSistema" />
     <MESSAGE value="adiciona package alura com TestaCondicionais e TestaVariavel" />
     <MESSAGE value="adiciona TestaCondicionais2, TestaEscopo e TesteIR" />
-    <option name="LAST_COMMIT_MESSAGE" value="adiciona TestaCondicionais2, TestaEscopo e TesteIR" />
+    <MESSAGE value="adiciona TestaSomatoria, TestaLacos e TestaLacos2" />
+    <option name="LAST_COMMIT_MESSAGE" value="adiciona TestaSomatoria, TestaLacos e TestaLacos2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
