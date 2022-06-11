@@ -41,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Fatorial">
+  <component name="RunManager" selected="Application.MultiploDe3">
     <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="alura.Fatorial" />
       <module name="PrimeiroProjeto" />
@@ -109,9 +109,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiploDe3" />
         <item itemvalue="Application.Fatorial" />
         <item itemvalue="Application.TestaLacos" />
-        <item itemvalue="Application.MultiploDe3" />
         <item itemvalue="Application.TestaLacos2" />
         <item itemvalue="Application.alura.TestaSomatoria" />
       </list>
